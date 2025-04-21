@@ -1,0 +1,28 @@
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.exe
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.deps.json
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.runtimeconfig.json
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.dll
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.pdb
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.AssemblyInfo.cs
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.dll
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\refint\RookKnightPlacement.dll
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.pdb
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.genruntimeconfig.cache
+C:\Users\Artur\Desktop\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\ref\RookKnightPlacement.dll
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.exe
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.deps.json
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.runtimeconfig.json
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.dll
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\bin\Debug\net8.0\RookKnightPlacement.pdb
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.AssemblyInfo.cs
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.dll
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\refint\RookKnightPlacement.dll
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.pdb
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\RookKnightPlacement.genruntimeconfig.cache
+C:\Users\Artur\Desktop\C# UFAR\C#_Task4\RookKnightPlacement\obj\Debug\net8.0\ref\RookKnightPlacement.dll
